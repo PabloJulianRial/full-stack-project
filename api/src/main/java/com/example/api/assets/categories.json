@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "name": "Vegetables"
+    "category_name": "Vegetables"
   },
   {
     "id": 2,
-    "name": "Meat"
+    "category_name": "Meat"
   },
   {
     "id": 3,
-    "name": "Poultry"
+    "category_name": "Poultry"
   },
   {
     "id": 4,
-    "name": "Seafood"
+    "category_name": "Seafood"
   },
   {
     "id": 5,
-    "name": "Dry Products"
+    "category_name": "Dry Products"
   },
   {
     "id": 6,
-    "name": "Dairy"
+    "category_name": "Dairy"
   }
 ]

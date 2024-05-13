@@ -1,927 +1,927 @@
 [
   {
     "id": 1,
-    "name": "Amaranth",
+    "ingredient_name": "Amaranth",
     "category_id": 1
   },
   {
     "id": 2,
-    "name": "Artichoke",
+    "ingredient_name": "Artichoke",
     "category_id": 1
   },
   {
     "id": 3,
-    "name": "Arugula",
+    "ingredient_name": "Arugula",
     "category_id": 1
   },
   {
     "id": 4,
-    "name": "Asparagus",
+    "ingredient_name": "Asparagus",
     "category_id": 1
   },
   {
     "id": 5,
-    "name": "Avocado",
+    "ingredient_name": "Avocado",
     "category_id": 1
   },
   {
     "id": 6,
-    "name": "Basil",
+    "ingredient_name": "Basil",
     "category_id": 1
   },
   {
     "id": 7,
-    "name": "Bean Sprout",
+    "ingredient_name": "Bean Sprout",
     "category_id": 1
   },
   {
     "id": 8,
-    "name": "Beet",
+    "ingredient_name": "Beet",
     "category_id": 1
   },
   {
     "id": 9,
-    "name": "Belgian Endive",
+    "ingredient_name": "Belgian Endive",
     "category_id": 1
   },
   {
     "id": 10,
-    "name": "Bell Pepper",
+    "ingredient_name": "Bell Pepper",
     "category_id": 1
   },
   {
     "id": 11,
-    "name": "Broccoli",
+    "ingredient_name": "Broccoli",
     "category_id": 1
   },
   {
     "id": 12,
-    "name": "Brussels Sprouts",
+    "ingredient_name": "Brussels Sprouts",
     "category_id": 1
   },
   {
     "id": 13,
-    "name": "Butternut Squash",
+    "ingredient_name": "Butternut Squash",
     "category_id": 1
   },
   {
     "id": 14,
-    "name": "Cabbage",
+    "ingredient_name": "Cabbage",
     "category_id": 1
   },
   {
     "id": 15,
-    "name": "Cactus Pear",
+    "ingredient_name": "Cactus Pear",
     "category_id": 1
   },
   {
     "id": 16,
-    "name": "Carrot",
+    "ingredient_name": "Carrot",
     "category_id": 1
   },
   {
     "id": 17,
-    "name": "Cauliflower",
+    "ingredient_name": "Cauliflower",
     "category_id": 1
   },
   {
     "id": 18,
-    "name": "Celery",
+    "ingredient_name": "Celery",
     "category_id": 1
   },
   {
     "id": 19,
-    "name": "Chicory",
+    "ingredient_name": "Chicory",
     "category_id": 1
   },
   {
     "id": 20,
-    "name": "Chinese Cabbage",
+    "ingredient_name": "Chinese Cabbage",
     "category_id": 1
   },
   {
     "id": 21,
-    "name": "Chives",
+    "ingredient_name": "Chives",
     "category_id": 1
   },
   {
     "id": 22,
-    "name": "Corn",
+    "ingredient_name": "Corn",
     "category_id": 1
   },
   {
     "id": 23,
-    "name": "Cucumber",
+    "ingredient_name": "Cucumber",
     "category_id": 1
   },
   {
     "id": 24,
-    "name": "Daikon Radish",
+    "ingredient_name": "Daikon Radish",
     "category_id": 1
   },
   {
     "id": 25,
-    "name": "Edamame",
+    "ingredient_name": "Edamame",
     "category_id": 1
   },
   {
     "id": 26,
-    "name": "Eggplant",
+    "ingredient_name": "Eggplant",
     "category_id": 1
   },
   {
     "id": 27,
-    "name": "Endive",
+    "ingredient_name": "Endive",
     "category_id": 1
   },
   {
     "id": 28,
-    "name": "Fava Bean",
+    "ingredient_name": "Fava Bean",
     "category_id": 1
   },
   {
     "id": 29,
-    "name": "Fennel",
+    "ingredient_name": "Fennel",
     "category_id": 1
   },
   {
     "id": 30,
-    "name": "Garlic",
+    "ingredient_name": "Garlic",
     "category_id": 1
   },
   {
     "id": 31,
-    "name": "Ginger",
+    "ingredient_name": "Ginger",
     "category_id": 1
   },
   {
     "id": 32,
-    "name": "Green Bean",
+    "ingredient_name": "Green Bean",
     "category_id": 1
   },
   {
     "id": 33,
-    "name": "Green Onion",
+    "ingredient_name": "Green Onion",
     "category_id": 1
   },
   {
     "id": 34,
-    "name": "Habanero Pepper",
+    "ingredient_name": "Habanero Pepper",
     "category_id": 1
   },
   {
     "id": 35,
-    "name": "Horseradish",
+    "ingredient_name": "Horseradish",
     "category_id": 1
   },
   {
     "id": 36,
-    "name": "Jalapeño Pepper",
+    "ingredient_name": "Jalapeño Pepper",
     "category_id": 1
   },
   {
     "id": 37,
-    "name": "Kale",
+    "ingredient_name": "Kale",
     "category_id": 1
   },
   {
     "id": 38,
-    "name": "Kohlrabi",
+    "ingredient_name": "Kohlrabi",
     "category_id": 1
   },
   {
     "id": 39,
-    "name": "Leek",
+    "ingredient_name": "Leek",
     "category_id": 1
   },
   {
     "id": 40,
-    "name": "Lettuce",
+    "ingredient_name": "Lettuce",
     "category_id": 1
   },
   {
     "id": 41,
-    "name": "Lotus Root",
+    "ingredient_name": "Lotus Root",
     "category_id": 1
   },
   {
     "id": 42,
-    "name": "Mushroom",
+    "ingredient_name": "Mushroom",
     "category_id": 1
   },
   {
     "id": 43,
-    "name": "Mustard Greens",
+    "ingredient_name": "Mustard Greens",
     "category_id": 1
   },
   {
     "id": 44,
-    "name": "Okra",
+    "ingredient_name": "Okra",
     "category_id": 1
   },
   {
     "id": 45,
-    "name": "Onion",
+    "ingredient_name": "Onion",
     "category_id": 1
   },
   {
     "id": 46,
-    "name": "Parsnip",
+    "ingredient_name": "Parsnip",
     "category_id": 1
   },
   {
     "id": 47,
-    "name": "Pea",
+    "ingredient_name": "Pea",
     "category_id": 1
   },
   {
     "id": 48,
-    "name": "Pumpkin",
+    "ingredient_name": "Pumpkin",
     "category_id": 1
   },
   {
     "id": 49,
-    "name": "Radish",
+    "ingredient_name": "Radish",
     "category_id": 1
   },
   {
     "id": 50,
-    "name": "Rhubarb",
+    "ingredient_name": "Rhubarb",
     "category_id": 1
   },
   {
     "id": 51,
-    "name": "Salsify",
+    "ingredient_name": "Salsify",
     "category_id": 1
   },
   {
     "id": 52,
-    "name": "Scallion",
+    "ingredient_name": "Scallion",
     "category_id": 1
   },
   {
     "id": 53,
-    "name": "Shallot",
+    "ingredient_name": "Shallot",
     "category_id": 1
   },
   {
     "id": 54,
-    "name": "Snow Pea",
+    "ingredient_name": "Snow Pea",
     "category_id": 1
   },
   {
     "id": 55,
-    "name": "Spinach",
+    "ingredient_name": "Spinach",
     "category_id": 1
   },
   {
     "id": 56,
-    "name": "Sweet Potato",
+    "ingredient_name": "Sweet Potato",
     "category_id": 1
   },
   {
     "id": 57,
-    "name": "Swiss Chard",
+    "ingredient_name": "Swiss Chard",
     "category_id": 1
   },
   {
     "id": 58,
-    "name": "Tomato",
+    "ingredient_name": "Tomato",
     "category_id": 1
   },
   {
     "id": 59,
-    "name": "Turnip",
+    "ingredient_name": "Turnip",
     "category_id": 1
   },
   {
     "id": 60,
-    "name": "Watercress",
+    "ingredient_name": "Watercress",
     "category_id": 1
   },
   {
     "id": 61,
-    "name": "Yam",
+    "ingredient_name": "Yam",
     "category_id": 1
   },
   {
     "id": 62,
-    "name": "Zucchini",
+    "ingredient_name": "Zucchini",
     "category_id": 1
   },
   {
     "id": 63,
-    "name": "Spinach",
+    "ingredient_name": "Spinach",
     "category_id": 1
   },
   {
     "id": 64,
-    "name": "Red Cabbage",
+    "ingredient_name": "Red Cabbage",
     "category_id": 1
   },
   {
     "id": 65,
-    "name": "Orange",
+    "ingredient_name": "Orange",
     "category_id": 2
   },
   {
     "id": 66,
-    "name": "Lemon",
+    "ingredient_name": "Lemon",
     "category_id": 2
   },
   {
     "id": 67,
-    "name": "Parsley",
+    "ingredient_name": "Parsley",
     "category_id": 3
   },
   {
     "id": 68,
-    "name": "Coriander",
+    "ingredient_name": "Coriander",
     "category_id": 3
   },
   {
     "id": 69,
-    "name": "Thyme",
+    "ingredient_name": "Thyme",
     "category_id": 3
   },
   {
     "id": 70,
-    "name": "Rosemary",
+    "ingredient_name": "Rosemary",
     "category_id": 3
   },
   {
     "id": 71,
-    "name": "Sage",
+    "ingredient_name": "Sage",
     "category_id": 3
   },
   {
     "id": 72,
-    "name": "Mint",
+    "ingredient_name": "Mint",
     "category_id": 3
   },
   {
     "id": 73,
-    "name": "Dill",
+    "ingredient_name": "Dill",
     "category_id": 3
   },
   {
     "id": 74,
-    "name": "celeriac",
+    "ingredient_name": "celeriac",
     "category_id": 1
   },
   {
     "id": 75,
-    "name": "Salmon",
+    "ingredient_name": "Salmon",
     "category_id": 4
   },
   {
     "id": 76,
-    "name": "Tuna",
+    "ingredient_name": "Tuna",
     "category_id": 4
   },
   {
     "id": 77,
-    "name": "Cod",
+    "ingredient_name": "Cod",
     "category_id": 4
   },
   {
     "id": 78,
-    "name": "Trout",
+    "ingredient_name": "Trout",
     "category_id": 4
   },
   {
     "id": 79,
-    "name": "Sardines",
+    "ingredient_name": "Sardines",
     "category_id": 4
   },
   {
     "id": 80,
-    "name": "Halibut",
+    "ingredient_name": "Halibut",
     "category_id": 4
   },
   {
     "id": 81,
-    "name": "King Prawns",
+    "ingredient_name": "King Prawns",
     "category_id": 4
   },
   {
     "id": 82,
-    "name": "Lobster",
+    "ingredient_name": "Lobster",
     "category_id": 4
   },
   {
     "id": 83,
-    "name": "King Scallops",
+    "ingredient_name": "King Scallops",
     "category_id": 4
   },
   {
     "id": 84,
-    "name": "Tilapia",
+    "ingredient_name": "Tilapia",
     "category_id": 4
   },
   {
     "id": 85,
-    "name": "Anchovies",
+    "ingredient_name": "Anchovies",
     "category_id": 4
   },
   {
     "id": 86,
-    "name": "Swordfish",
+    "ingredient_name": "Swordfish",
     "category_id": 4
   },
   {
     "id": 87,
-    "name": "Beef Fillet",
+    "ingredient_name": "Beef Fillet",
     "category_id": 2
   },
   {
     "id": 88,
-    "name": "Beef Short Rib",
+    "ingredient_name": "Beef Short Rib",
     "category_id": 2
   },
   {
     "id": 89,
-    "name": "Beef Brisket",
+    "ingredient_name": "Beef Brisket",
     "category_id": 2
   },
   {
     "id": 90,
-    "name": "Minced Beef",
+    "ingredient_name": "Minced Beef",
     "category_id": 2
   },
   {
     "id": 91,
-    "name": "Beef Cheeks",
+    "ingredient_name": "Beef Cheeks",
     "category_id": 2
   },
   {
     "id": 92,
-    "name": "Rib Eye Steak",
+    "ingredient_name": "Rib Eye Steak",
     "category_id": 2
   },
   {
     "id": 93,
-    "name": "Sirloin Steak",
+    "ingredient_name": "Sirloin Steak",
     "category_id": 2
   },
   {
     "id": 94,
-    "name": "Pork Chops",
+    "ingredient_name": "Pork Chops",
     "category_id": 2
   },
   {
     "id": 95,
-    "name": "Pork Loin",
+    "ingredient_name": "Pork Loin",
     "category_id": 2
   },
   {
     "id": 96,
-    "name": "Pork Belly",
+    "ingredient_name": "Pork Belly",
     "category_id": 2
   },
   {
     "id": 97,
-    "name": "Bacon",
+    "ingredient_name": "Bacon",
     "category_id": 2
   },
   {
     "id": 98,
-    "name": "Chicken Breast",
+    "ingredient_name": "Chicken Breast",
     "category_id": 3
   },
   {
     "id": 99,
-    "name": "Chicken Thigh",
+    "ingredient_name": "Chicken Thigh",
     "category_id": 3
   },
   {
     "id": 100,
-    "name": "Whole Chicken",
+    "ingredient_name": "Whole Chicken",
     "category_id": 3
   },
   {
     "id": 101,
-    "name": "Lamb Shoulder",
+    "ingredient_name": "Lamb Shoulder",
     "category_id": 2
   },
   {
     "id": 102,
-    "name": "Lamb Leg",
+    "ingredient_name": "Lamb Leg",
     "category_id": 2
   },
   {
     "id": 103,
-    "name": "Lamb Rack",
+    "ingredient_name": "Lamb Rack",
     "category_id": 2
   },
   {
     "id": 104,
-    "name": "Duck Breast",
+    "ingredient_name": "Duck Breast",
     "category_id": 3
   },
   {
     "id": 105,
-    "name": "Duck Legs",
+    "ingredient_name": "Duck Legs",
     "category_id": 3
   },
   {
     "id": 106,
-    "name": "Venison",
+    "ingredient_name": "Venison",
     "category_id": 2
   },
   {
     "id": 107,
-    "name": "Duck",
+    "ingredient_name": "Duck",
     "category_id": 3
   },
   {
     "id": 108,
-    "name": "Turkey",
+    "ingredient_name": "Turkey",
     "category_id": 3
   },
   {
     "id": 109,
-    "name": "Quail",
+    "ingredient_name": "Quail",
     "category_id": 3
   },
   {
     "id": 110,
-    "name": "Guinea Fowl",
+    "ingredient_name": "Guinea Fowl",
     "category_id": 3
   },
   {
     "id": 111,
-    "name": "Green Lentils",
+    "ingredient_name": "Green Lentils",
     "category_id": 5
   },
   {
     "id": 112,
-    "name": "Chickpeas",
+    "ingredient_name": "Chickpeas",
     "category_id": 5
   },
   {
     "id": 113,
-    "name": "Butter Beans",
+    "ingredient_name": "Butter Beans",
     "category_id": 5
   },
   {
     "id": 114,
-    "name": "Arborio Rice",
+    "ingredient_name": "Arborio Rice",
     "category_id": 5
   },
   {
     "id": 115,
-    "name": "Basmati Rice",
+    "ingredient_name": "Basmati Rice",
     "category_id": 5
   },
   {
     "id": 116,
-    "name": "Polenta",
+    "ingredient_name": "Polenta",
     "category_id": 5
   },
   {
     "id": 117,
-    "name": "Penne Pasta",
+    "ingredient_name": "Penne Pasta",
     "category_id": 5
   },
   {
     "id": 118,
-    "name": "Spaghetti",
+    "ingredient_name": "Spaghetti",
     "category_id": 5
   },
   {
     "id": 119,
-    "name": "Linguine",
+    "ingredient_name": "Linguine",
     "category_id": 5
   },
   {
     "id": 120,
-    "name": "Orecchiette Pasta",
+    "ingredient_name": "Orecchiette Pasta",
     "category_id": 5
   },
   {
     "id": 121,
-    "name": "Conchiglie Pasta",
+    "ingredient_name": "Conchiglie Pasta",
     "category_id": 5
   },
   {
     "id": 122,
-    "name": "Green Olives",
+    "ingredient_name": "Green Olives",
     "category_id": 5
   },
   {
     "id": 123,
-    "name": "Feta Cheese",
+    "ingredient_name": "Feta Cheese",
     "category_id": 6
   },
   {
     "id": 124,
-    "name": "Parmesan Cheese",
+    "ingredient_name": "Parmesan Cheese",
     "category_id": 6
   },
   {
     "id": 125,
-    "name": "Blue Stilton",
+    "ingredient_name": "Blue Stilton",
     "category_id": 6
   },
   {
     "id": 126,
-    "name": "Goat's Cheese",
+    "ingredient_name": "Goat's Cheese",
     "category_id": 6
   },
   {
     "id": 127,
-    "name": "Gruyere Cheese",
+    "ingredient_name": "Gruyere Cheese",
     "category_id": 6
   },
   {
     "id": 128,
-    "name": "Mozzarella",
+    "ingredient_name": "Mozzarella",
     "category_id": 6
   },
   {
     "id": 129,
-    "name": "Double Cream",
+    "ingredient_name": "Double Cream",
     "category_id": 6
   },
   {
     "id": 130,
-    "name": "Capers",
+    "ingredient_name": "Capers",
     "category_id": 5
   },
   {
     "id": 131,
-    "name": "Pickled Gherkins",
+    "ingredient_name": "Pickled Gherkins",
     "category_id": 5
   },
   {
     "id": 132,
-    "name": "Teriyaki Sauce",
+    "ingredient_name": "Teriyaki Sauce",
     "category_id": 5
   },
   {
     "id": 133,
-    "name": "Baguette",
+    "ingredient_name": "Baguette",
     "category_id": 5
   },
   {
     "id": 134,
-    "name": "White Wine",
+    "ingredient_name": "White Wine",
     "category_id": 5
   },
   {
     "id": 135,
-    "name": "Mussels",
+    "ingredient_name": "Mussels",
     "category_id": 4
   },
   {
     "id": 136,
-    "name": "Balsamic Vinegar",
+    "ingredient_name": "Balsamic Vinegar",
     "category_id": 5
   },
   {
     "id": 137,
-    "name": "Mango",
+    "ingredient_name": "Mango",
     "category_id": 1
   },
   {
     "id": 138,
-    "name": "Coconut Milk",
+    "ingredient_name": "Coconut Milk",
     "category_id": 6
   },
   {
     "id": 139,
-    "name": "Curry Paste",
+    "ingredient_name": "Curry Paste",
     "category_id": 5
   },
   {
     "id": 140,
-    "name": "Olive Oil",
+    "ingredient_name": "Olive Oil",
     "category_id": 5
   },
   {
     "id": 141,
-    "name": "Cherry Tomato",
+    "ingredient_name": "Cherry Tomato",
     "category_id": 1
   },
   {
     "id": 142,
-    "name": "Cajun Seasoning",
+    "ingredient_name": "Cajun Seasoning",
     "category_id": 5
   },
   {
     "id": 143,
-    "name": "Sausages",
+    "ingredient_name": "Sausages",
     "category_id": 2
   },
   {
     "id": 144,
-    "name": "Sesame Seeds",
+    "ingredient_name": "Sesame Seeds",
     "category_id": 5
   },
   {
     "id": 145,
-    "name": "Bagel",
+    "ingredient_name": "Bagel",
     "category_id": 5
   },
   {
     "id": 146,
-    "name": "Cream Cheese",
+    "ingredient_name": "Cream Cheese",
     "category_id": 6
   },
   {
     "id": 147,
-    "name": "Worcestershire Sauce",
+    "ingredient_name": "Worcestershire Sauce",
     "category_id": 5
   },
   {
     "id": 148,
-    "name": "Dijon Mustard",
+    "ingredient_name": "Dijon Mustard",
     "category_id": 5
   },
   {
     "id": 149,
-    "name": "Mayonnaise",
+    "ingredient_name": "Mayonnaise",
     "category_id": 6
   },
   {
     "id": 150,
-    "name": "Bread Crumbs",
+    "ingredient_name": "Bread Crumbs",
     "category_id": 5
   },
   {
     "id": 151,
-    "name": "Lime",
+    "ingredient_name": "Lime",
     "category_id": 2
   },
   {
     "id": 152,
-    "name": "Flour",
+    "ingredient_name": "Flour",
     "category_id": 5
   },
   {
     "id": 153,
-    "name": "Milk",
+    "ingredient_name": "Milk",
     "category_id": 6
   },
   {
     "id": 154,
-    "name": "Cheddar Cheese",
+    "ingredient_name": "Cheddar Cheese",
     "category_id": 6
   },
   {
     "id": 155,
-    "name": "Macaroni",
+    "ingredient_name": "Macaroni",
     "category_id": 5
   },
   {
     "id": 156,
-    "name": "Seabass",
+    "ingredient_name": "Seabass",
     "category_id": 4
   },
   {
     "id": 157,
-    "name": "BBQ Sauce",
+    "ingredient_name": "BBQ Sauce",
     "category_id": 5
   },
   {
     "id": 158,
-    "name": "Brown Sugar",
+    "ingredient_name": "Brown Sugar",
     "category_id": 5
   },
   {
     "id": 159,
-    "name": "Apple Cider Vinegar",
+    "ingredient_name": "Apple Cider Vinegar",
     "category_id": 5
   },
   {
     "id": 160,
-    "name": "Soy Sauce",
+    "ingredient_name": "Soy Sauce",
     "category_id": 5
   },
   {
     "id": 161,
-    "name": "Ricotta Cheese",
+    "ingredient_name": "Ricotta Cheese",
     "category_id": 6
   },
   {
     "id": 162,
-    "name": "Lasagna Sheets",
+    "ingredient_name": "Lasagna Sheets",
     "category_id": 5
   },
   {
     "id": 163,
-    "name": "Duck Fat",
+    "ingredient_name": "Duck Fat",
     "category_id": 5
   },
   {
     "id": 164,
-    "name": "Vegetable Oil",
+    "ingredient_name": "Vegetable Oil",
     "category_id": 5
   },
   {
     "id": 165,
-    "name": "Egg",
+    "ingredient_name": "Egg",
     "category_id": 6
   },
   {
     "id": 166,
-    "name": "Flour",
+    "ingredient_name": "Flour",
     "category_id": 5
   },
   {
     "id": 167,
-    "name": "Tomato Sauce",
+    "ingredient_name": "Tomato Sauce",
     "category_id": 5
   },
   {
     "id": 168,
-    "name": "Paprika",
+    "ingredient_name": "Paprika",
     "category_id": 5
   },
   {
     "id": 169,
-    "name": "Honey",
+    "ingredient_name": "Honey",
     "category_id": 5
   },
   {
     "id": 170,
-    "name": "Tortilla",
+    "ingredient_name": "Tortilla",
     "category_id": 5
   },
   {
     "id": 171,
-    "name": "Red Wine",
+    "ingredient_name": "Red Wine",
     "category_id": 5
   },
   {
     "id": 172,
-    "name": "Chicken Stock",
+    "ingredient_name": "Chicken Stock",
     "category_id": 5
   },
   {
     "id": 173,
-    "name": "Grand Marnier",
+    "ingredient_name": "Grand Marnier",
     "category_id": 5
   },
   {
     "id": 174,
-    "name": "Heavy Cream",
+    "ingredient_name": "Heavy Cream",
     "category_id": 6
   },
   {
     "id": 175,
-    "name": "Cinnamon",
+    "ingredient_name": "Cinnamon",
     "category_id": 5
   },
   {
     "id": 176,
-    "name": "Beef Stock",
+    "ingredient_name": "Beef Stock",
     "category_id": 5
   },
   {
     "id": 177,
-    "name": "Puff Pastry",
+    "ingredient_name": "Puff Pastry",
     "category_id": 5
   },
   {
     "id": 178,
-    "name": "Prosciutto",
+    "ingredient_name": "Prosciutto",
     "category_id": 2
   },
   {
     "id": 179,
-    "name": "Garam Masala",
+    "ingredient_name": "Garam Masala",
     "category_id": 5
   },
   {
     "id": 180,
-    "name": "Cumin",
+    "ingredient_name": "Cumin",
     "category_id": 5
   },
   {
     "id": 181,
-    "name": "Greek Yogurt",
+    "ingredient_name": "Greek Yogurt",
     "category_id": 6
   },
   {
     "id": 182,
-    "name": "Peanut Sauce",
+    "ingredient_name": "Peanut Sauce",
     "category_id": 6
   },
   {
     "id": 183,
-    "name": "Apple",
+    "ingredient_name": "Apple",
     "category_id": 1
   },
   {
     "id": 184,
-    "name": "Potato",
+    "ingredient_name": "Potato",
     "category_id": 1
   },
   {
     "id": 185,
-    "name": "Butter",
+    "ingredient_name": "Butter",
     "category_id": 1
   }
 ]
