@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Vegetables"
+  },
+  {
+    "id": 2,
+    "name": "Meat"
+  },
+  {
+    "id": 3,
+    "name": "Poultry"
+  },
+  {
+    "id": 4,
+    "name": "Seafood"
+  },
+  {
+    "id": 5,
+    "name": "Dry Products"
+  },
+  {
+    "id": 6,
+    "name": "Dairy"
+  }
+]

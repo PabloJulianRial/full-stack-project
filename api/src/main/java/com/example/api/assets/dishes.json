@@ -1,0 +1,524 @@
+[
+  {
+    "id": 1,
+    "dish": "Grilled Salmon with Lemon Butter Sauce",
+    "ingredient1": 75,
+    "ingredient2": 66,
+    "ingredient3": 81,
+    "ingredient4": 4,
+    "ingredient5": 3
+  },
+  {
+    "id": 2,
+    "dish": "Garlic Butter Shrimp Pasta",
+    "ingredient1": 81,
+    "ingredient2": 30,
+    "ingredient3": 3,
+    "ingredient4": 117,
+    "ingredient5": 124
+  },
+  {
+    "id": 3,
+    "dish": "Pan-Seared Sea Bass with Roasted Vegetables",
+    "ingredient1": 156,
+    "ingredient2": 10,
+    "ingredient3": 62,
+    "ingredient4": 16,
+    "ingredient5": 83
+  },
+  {
+    "id": 4,
+    "dish": "Lobster Mac and Cheese",
+    "ingredient1": 82,
+    "ingredient2": 155,
+    "ingredient3": 123,
+    "ingredient4": 153,
+    "ingredient5": 150
+  },
+  {
+    "id": 5,
+    "dish": "Crispy Fried Calamari with Marinara Sauce",
+    "ingredient1": 85,
+    "ingredient2": 152,
+    "ingredient3": 69,
+    "ingredient4": 58,
+    "ingredient5": 150
+  },
+  {
+    "id": 6,
+    "dish": "Grilled Swordfish with Mango Salsa",
+    "ingredient1": 86,
+    "ingredient2": 79,
+    "ingredient3": 64,
+    "ingredient4": 72,
+    "ingredient5": 151
+  },
+  {
+    "id": 7,
+    "dish": "Pan-Fried Trout with Lemon and Dill",
+    "ingredient1": 77,
+    "ingredient2": 66,
+    "ingredient3": 73,
+    "ingredient4": 81,
+    "ingredient5": 32
+  },
+  {
+    "id": 8,
+    "dish": "Shrimp Scampi with Linguine",
+    "ingredient1": 81,
+    "ingredient2": 118,
+    "ingredient3": 30,
+    "ingredient4": 115,
+    "ingredient5": 67
+  },
+  {
+    "id": 9,
+    "dish": "Baked Halibut with Herb Crust",
+    "ingredient1": 80,
+    "ingredient2": 150,
+    "ingredient3": 72,
+    "ingredient4": 157,
+    "ingredient5": 4
+  },
+  {
+    "id": 10,
+    "dish": "Crab Cakes with Remoulade Sauce",
+    "ingredient1": 8,
+    "ingredient2": 150,
+    "ingredient3": 149,
+    "ingredient4": 144,
+    "ingredient5": 142
+  },
+  {
+    "id": 11,
+    "dish": "Grilled Shrimp Skewers with Pineapple and Peppers",
+    "ingredient1": 81,
+    "ingredient2": 110,
+    "ingredient3": 10,
+    "ingredient4": 54,
+    "ingredient5": 33
+  },
+  {
+    "id": 12,
+    "dish": "Smoked Salmon and Cream Cheese Bagel",
+    "ingredient1": 79,
+    "ingredient2": 126,
+    "ingredient3": 125,
+    "ingredient4": 45,
+    "ingredient5": 130
+  },
+  {
+    "id": 13,
+    "dish": "Seared Tuna Salad with Sesame Dressing",
+    "ingredient1": 76,
+    "ingredient2": 136,
+    "ingredient3": 16,
+    "ingredient4": 23,
+    "ingredient5": 131
+  },
+  {
+    "id": 14,
+    "dish": "Lemon Butter Lobster Tails",
+    "ingredient1": 82,
+    "ingredient2": 81,
+    "ingredient3": 30,
+    "ingredient4": 66,
+    "ingredient5": 67
+  },
+  {
+    "id": 15,
+    "dish": "Cajun Shrimp and Sausage Skillet",
+    "ingredient1": 81,
+    "ingredient2": 121,
+    "ingredient3": 10,
+    "ingredient4": 45,
+    "ingredient5": 139
+  },
+  {
+    "id": 16,
+    "dish": "Baked Cod with Cherry Tomato Salsa",
+    "ingredient1": 77,
+    "ingredient2": 60,
+    "ingredient3": 56,
+    "ingredient4": 7,
+    "ingredient5": 151
+  },
+  {
+    "id": 17,
+    "dish": "Coconut Shrimp Curry",
+    "ingredient1": 81,
+    "ingredient2": 128,
+    "ingredient3": 130,
+    "ingredient4": 10,
+    "ingredient5": 115
+  },
+  {
+    "id": 18,
+    "dish": "Grilled Scallop and Mango Salad",
+    "ingredient1": 83,
+    "ingredient2": 79,
+    "ingredient3": 69,
+    "ingredient4": 45,
+    "ingredient5": 45
+  },
+  {
+    "id": 19,
+    "dish": "Mussels in White Wine Sauce",
+    "ingredient1": 142,
+    "ingredient2": 121,
+    "ingredient3": 30,
+    "ingredient4": 67,
+    "ingredient5": 145
+  },
+  {
+    "id": 20,
+    "dish": "Teriyaki Glazed Salmon with Stir-Fried Vegetables",
+    "ingredient1": 75,
+    "ingredient2": 146,
+    "ingredient3": 11,
+    "ingredient4": 16,
+    "ingredient5": 10
+  },
+  {
+    "id": 21,
+    "dish": "Beef Bourguignon",
+    "ingredient1": 91,
+    "ingredient2": 16,
+    "ingredient3": 33,
+    "ingredient4": 171,
+    "ingredient5": 176
+  },
+  {
+    "id": 22,
+    "dish": "Pork Carnitas",
+    "ingredient1": 96,
+    "ingredient2": 65,
+    "ingredient3": 30,
+    "ingredient4": 180,
+    "ingredient5": 69
+  },
+  {
+    "id": 23,
+    "dish": "Chicken Fajitas",
+    "ingredient1": 98,
+    "ingredient2": 10,
+    "ingredient3": 45,
+    "ingredient4": 151,
+    "ingredient5": 180
+  },
+  {
+    "id": 24,
+    "dish": "Beef and Mushroom Pie",
+    "ingredient1": 91,
+    "ingredient2": 42,
+    "ingredient3": 45,
+    "ingredient4": 176,
+    "ingredient5": 177
+  },
+  {
+    "id": 25,
+    "dish": "Pork Tenderloin with Mustard Sauce",
+    "ingredient1": 95,
+    "ingredient2": 148,
+    "ingredient3": 174,
+    "ingredient4": 30,
+    "ingredient5": 134
+  },
+  {
+    "id": 26,
+    "dish": "Chicken Cacciatore",
+    "ingredient1": 99,
+    "ingredient2": 58,
+    "ingredient3": 10,
+    "ingredient4": 45,
+    "ingredient5": 171
+  },
+  {
+    "id": 27,
+    "dish": "Beef Enchiladas",
+    "ingredient1": 91,
+    "ingredient2": 167,
+    "ingredient3": 170,
+    "ingredient4": 154,
+    "ingredient5": 180
+  },
+  {
+    "id": 28,
+    "dish": "Pork Schnitzel",
+    "ingredient1": 95,
+    "ingredient2": 150,
+    "ingredient3": 165,
+    "ingredient4": 166,
+    "ingredient5": 66
+  },
+  {
+    "id": 29,
+    "dish": "Chicken Marsala",
+    "ingredient1": 98,
+    "ingredient2": 42,
+    "ingredient3": 134,
+    "ingredient4": 174,
+    "ingredient5": 30
+  },
+  {
+    "id": 30,
+    "dish": "Beef Gyros",
+    "ingredient1": 93,
+    "ingredient2": 181,
+    "ingredient3": 23,
+    "ingredient4": 58,
+    "ingredient5": 133
+  },
+  {
+    "id": 31,
+    "dish": "Pork Satay",
+    "ingredient1": 95,
+    "ingredient2": 182,
+    "ingredient3": 160,
+    "ingredient4": 30,
+    "ingredient5": 151
+  },
+  {
+    "id": 32,
+    "dish": "Chicken Piccata",
+    "ingredient1": 98,
+    "ingredient2": 66,
+    "ingredient3": 130,
+    "ingredient4": 134,
+    "ingredient5": 185
+  },
+  {
+    "id": 33,
+    "dish": "Beef Stroganoff",
+    "ingredient1": "Beef Sirloin",
+    "ingredient2": 42,
+    "ingredient3": 45,
+    "ingredient4": 176,
+    "ingredient5": 174
+  },
+  {
+    "id": 34,
+    "dish": "Pork Belly Burnt Ends",
+    "ingredient1": 96,
+    "ingredient2": 157,
+    "ingredient3": 158,
+    "ingredient4": 159,
+    "ingredient5": 180
+  },
+  {
+    "id": 35,
+    "dish": "Chicken Shawarma",
+    "ingredient1": 99,
+    "ingredient2": 181,
+    "ingredient3": 30,
+    "ingredient4": 180,
+    "ingredient5": 68
+  },
+  {
+    "id": 36,
+    "dish": "Beef Bulgogi",
+    "ingredient1": 93,
+    "ingredient2": 160,
+    "ingredient3": 144,
+    "ingredient4": 30,
+    "ingredient5": 158
+  },
+  {
+    "id": 38,
+    "dish": "Chicken Tikka Masala",
+    "ingredient1": 99,
+    "ingredient2": 181,
+    "ingredient3": 167,
+    "ingredient4": 179,
+    "ingredient5": 30
+  },
+  {
+    "id": 39,
+    "dish": "Beef Tournedos",
+    "ingredient1": 87,
+    "ingredient2": 69,
+    "ingredient3": 30,
+    "ingredient4": 185,
+    "ingredient5": 176
+  },
+  {
+    "id": 40,
+    "dish": "Pork Chops with Mushroom Sauce",
+    "ingredient1": "Pork Chops",
+    "ingredient2": 42,
+    "ingredient3": 45,
+    "ingredient4": 174,
+    "ingredient5": 134
+  },
+  {
+    "id": 41,
+    "dish": "Beef Wellington",
+    "ingredient1": 87,
+    "ingredient2": 42,
+    "ingredient3": 177,
+    "ingredient4": 178,
+    "ingredient5": 69
+  },
+  {
+    "id": 42,
+    "dish": "Slow-Cooked Beef Stew",
+    "ingredient1": 89,
+    "ingredient2": 16,
+    "ingredient3": 184,
+    "ingredient4": 45,
+    "ingredient5": 88
+  },
+  {
+    "id": 43,
+    "dish": "Roast Lamb with Rosemary",
+    "ingredient1": "Lamb Leg",
+    "ingredient2": 30,
+    "ingredient3": 70,
+    "ingredient4": 184,
+    "ingredient5": 171
+  },
+  {
+    "id": 44,
+    "dish": "Pork Tenderloin with Apple Compote",
+    "ingredient1": 95,
+    "ingredient2": 183,
+    "ingredient3": 45,
+    "ingredient4": 175,
+    "ingredient5": 159
+  },
+  {
+    "id": 45,
+    "dish": "Chicken Alfredo Pasta",
+    "ingredient1": 98,
+    "ingredient2": 117,
+    "ingredient3": 174,
+    "ingredient4": 124,
+    "ingredient5": 30
+  },
+  {
+    "id": 46,
+    "dish": "Duck à l'Orange",
+    "ingredient1": 104,
+    "ingredient2": 65,
+    "ingredient3": 169,
+    "ingredient4": 172,
+    "ingredient5": 173
+  },
+  {
+    "id": 47,
+    "dish": "Spaghetti Bolognese",
+    "ingredient1": 90,
+    "ingredient2": 58,
+    "ingredient3": 45,
+    "ingredient4": 16,
+    "ingredient5": 171
+  },
+  {
+    "id": 48,
+    "dish": "Beef Tacos",
+    "ingredient1": 92,
+    "ingredient2": 170,
+    "ingredient3": 5,
+    "ingredient4": 40,
+    "ingredient5": 58
+  },
+  {
+    "id": 49,
+    "dish": "Bacon-Wrapped Chicken",
+    "ingredient1": 99,
+    "ingredient2": 97,
+    "ingredient3": 169,
+    "ingredient4": 30,
+    "ingredient5": 168
+  },
+  {
+    "id": 50,
+    "dish": "Beef Stir-Fry",
+    "ingredient1": 93,
+    "ingredient2": 10,
+    "ingredient3": 11,
+    "ingredient4": 160,
+    "ingredient5": 31
+  },
+  {
+    "id": 51,
+    "dish": "Lamb Curry",
+    "ingredient1": 101,
+    "ingredient2": 138,
+    "ingredient3": 139,
+    "ingredient4": 184,
+    "ingredient5": 68
+  },
+  {
+    "id": 52,
+    "dish": "Pork Chops with Apple Sauce",
+    "ingredient1": 94,
+    "ingredient2": 183,
+    "ingredient3": 45,
+    "ingredient4": 159,
+    "ingredient5": 158
+  },
+  {
+    "id": 53,
+    "dish": "Chicken Parmesan",
+    "ingredient1": 98,
+    "ingredient2": 150,
+    "ingredient3": 124,
+    "ingredient4": 167,
+    "ingredient5": 128
+  },
+  {
+    "id": 54,
+    "dish": "Roast Beef with Yorkshire Puddings",
+    "ingredient1": 88,
+    "ingredient2": 152,
+    "ingredient3": 153,
+    "ingredient4": 165,
+    "ingredient5": 164
+  },
+  {
+    "id": 55,
+    "dish": "Duck Confit",
+    "ingredient1": 105,
+    "ingredient2": 69,
+    "ingredient3": 30,
+    "ingredient4": 70,
+    "ingredient5": 163
+  },
+  {
+    "id": 57,
+    "dish": "Stuffed Pork Tenderloin",
+    "ingredient1": 95,
+    "ingredient2": 55,
+    "ingredient3": 123,
+    "ingredient4": 30,
+    "ingredient5": 148
+  },
+  {
+    "id": 58,
+    "dish": "Chicken Curry",
+    "ingredient1": 99,
+    "ingredient2": 138,
+    "ingredient3": 139,
+    "ingredient4": 184,
+    "ingredient5": 68
+  },
+  {
+    "id": 59,
+    "dish": "Beef and Broccoli Stir-Fry",
+    "ingredient1": 87,
+    "ingredient2": 11,
+    "ingredient3": 160,
+    "ingredient4": 30,
+    "ingredient5": 31
+  },
+  {
+    "id": 60,
+    "dish": "Pork Ribs with BBQ Sauce",
+    "ingredient1": 96,
+    "ingredient2": 157,
+    "ingredient3": 158,
+    "ingredient4": 30,
+    "ingredient5": 159
+  }
+]
