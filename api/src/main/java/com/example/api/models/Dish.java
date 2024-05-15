@@ -2,14 +2,24 @@ package com.example.api.models;
 
 import jakarta.persistence.*;
 
+import java.util.Set;
+
 @Entity
 @Table(name = "dishes")
 public class Dish {
 
+    @ManyToMany
+    @JoinTable(
+            name = "dish_ingredients",
+            joinColumns = @JoinColumn(name = "ingredient1_id"),
+            inverseJoinColumns = @JoinColumn(name = "ingredient_id"))
+
+
+    Set<Ingredients> dishIngredients;
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
-
     private String dish;
 
     @Column(name = "ingredient1_id")
@@ -83,46 +93,6 @@ public class Dish {
     public void setIngredient5Id(int ingredient5Id) {
         this.ingredient5Id = ingredient5Id;
     }
-
-//    public Ingredients getIngredient1() {
-//        return ingredient1;
-//    }
-//
-//    public void setIngredient1(Ingredients ingredient1) {
-//        this.ingredient1 = ingredient1;
-//    }
-//
-//    public Ingredients getIngredient2() {
-//        return ingredient2;
-//    }
-//
-//    public void setIngredient2(Ingredients ingredient2) {
-//        this.ingredient2 = ingredient2;
-//    }
-//
-//    public Ingredients getIngredient3() {
-//        return ingredient3;
-//    }
-//
-//    public void setIngredient3(Ingredients ingredient3) {
-//        this.ingredient3 = ingredient3;
-//    }
-//
-//    public Ingredients getIngredient4() {
-//        return ingredient4;
-//    }
-//
-//    public void setIngredient4(Ingredients ingredient4) {
-//        this.ingredient4 = ingredient4;
-//    }
-//
-//    public Ingredients getIngredient5() {
-//        return ingredient5;
-//    }
-//
-//    public void setIngredient5(Ingredients ingredient5) {
-//        this.ingredient5 = ingredient5;
-//    }
 
     public Recipe getRecipe() {
         return recipe;
