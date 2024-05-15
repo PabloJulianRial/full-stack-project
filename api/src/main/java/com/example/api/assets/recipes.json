@@ -1,292 +1,230 @@
 [
   {
     "id": 1,
-    " dish_id ": 1,
     "recipe": "Season salmon fillets with salt and pepper, then grill over medium heat until cooked to your desired doneness, about 4-5 minutes per side. In a saucepan, melt butter over low heat, then add freshly squeezed lemon juice, minced garlic, and chopped parsley. Simmer for 2-3 minutes until slightly thickened. Pour the lemon butter sauce over the grilled salmon fillets and serve immediately."
   },
   {
     "id": 2,
-    " dish_id ": 2,
     "recipe": "Cook pasta according to package instructions until al dente. In a large skillet, melt butter over medium heat, then add minced garlic and cook until fragrant. Add shrimp and cook until pink and opaque, about 2-3 minutes per side. Toss cooked pasta with the garlic butter shrimp, freshly chopped parsley, and grated Parmesan cheese. Serve hot with a sprinkle of black pepper."
   },
   {
     "id": 3,
-    " dish_id ": 3,
     "recipe": "Preheat oven to 400°F (200°C). Season sea bass fillets with salt, pepper, and a pinch of paprika. Heat olive oil in a skillet over medium-high heat, then add sea bass fillets skin-side down. Sear for 3-4 minutes until golden brown, then transfer to a baking  dish_id. Roast in the preheated oven for 10-12 minutes until cooked through. Meanwhile, toss bell peppers, zucchini, and carrots with olive oil, salt, and pepper. Roast for 20-25 minutes until tender. Serve the pan-seared sea bass with roasted vegetables and a drizzle of balsamic glaze."
   },
   {
     "id": 4,
-    " dish_id ": 4,
     "recipe": "Preheat oven to 375°F (190°C). Cook macaroni according to package instructions until al dente. In a saucepan, melt butter over medium heat, then whisk in flour to make a roux. Gradually add milk, stirring constantly until smooth and thickened. Remove from heat and stir in grated cheddar cheese until melted. Season with salt, pepper, and a pinch of nutmeg. Fold in cooked macaroni and chopped lobster meat. Transfer to a baking  dish_id, sprinkle with breadcrumbs, and bake for 25-30 minutes until bubbly and golden brown."
   },
   {
     "id": 5,
-    " dish_id ": 5,
     "recipe": "In a bowl, whisk together flour, salt, pepper, and paprika. Dip calamari rings into beaten eggs, then dredge in seasoned flour mixture. In a deep fryer or skillet, heat oil to 350°F (180°C). Fry calamari in batches until golden brown and crispy, about 2-3 minutes per batch. Drain on paper towels and serve hot with marinara sauce for dipping."
   },
   {
     "id": 6,
-    " dish_id ": 6,
     "recipe": "Preheat grill to medium-high heat. Season swordfish steaks with salt, pepper, and a pinch of cayenne pepper. Grill swordfish for 4-5 minutes per side until grill marks form and fish is cooked through. Meanwhile, prepare mango salsa by combining diced mango, red onion, jalapeño, cilantro, lime juice, and salt in a bowl. Serve grilled swordfish topped with mango salsa and a squeeze of fresh lime juice."
   },
   {
     "id": 7,
-    " dish_id ": 7,
     "recipe": "Season trout fillets with salt, pepper, and a sprinkle of dried dill. Heat olive oil in a skillet over medium heat. Add trout fillets skin-side down and cook for 4-5 minutes until golden brown and crispy. Carefully flip and cook for an additional 2-3 minutes until cooked through. Transfer to a plate and squeeze fresh lemon juice over the trout. Serve hot with a garnish of fresh dill."
   },
   {
-    "id": 8,
-    " dish_id ": 8,
-    "recipe": "Cook linguine according to package instructions until al dente. In a large skillet, melt butter over medium heat. Add minced garlic and cook until fragrant, about 1 minute. Add shrimp and cook until pink and opaque, about 2-3 minutes per side. Pour in white wine and lemon juice, then simmer until slightly reduced. Toss cooked linguine with shrimp, sauce, and freshly chopped parsley. Serve hot with a sprinkle of grated Parmesan cheese."
-  },
-  {
     "id": 9,
-    " dish_id ": 9,
     "recipe": "Preheat oven to 400°F (200°C). Season halibut fillets with salt, pepper, and a squeeze of lemon juice. In a small bowl, mix breadcrumbs, chopped parsley, lemon zest, and melted butter to form a crumbly mixture. Press herb crust onto the top of each halibut fillet. Bake in the preheated oven for 12-15 minutes until fish flakes easily with a fork. Serve hot with roasted potatoes and steamed vegetables."
   },
   {
     "id": 10,
-    " dish_id ": 10,
     "recipe": "In a bowl, combine crab meat, breadcrumbs, mayonnaise, Dijon mustard, Worcestershire sauce, chopped parsley, and Old Bay seasoning. Form the mixture into patties and refrigerate for 30 minutes. Heat oil in a skillet over medium heat. Fry crab cakes until golden brown and crispy, about 3-4 minutes per side. Serve hot with homemade remoulade sauce and a wedge of lemon."
   },
   {
     "id": 11,
-    " dish_id ": 11,
     "recipe": "Preheat grill to medium-high heat. Thread shrimp, pineapple chunks, bell pepper slices, and red onion wedges onto skewers. Brush with olive oil and season with salt, pepper, and paprika. Grill skewers for 2-3 minutes per side until shrimp is pink and grill marks form. Serve hot with a squeeze of lime juice."
   },
   {
     "id": 12,
-    " dish_id ": 12,
     "recipe": "Toast bagels until golden brown, then spread cream cheese on each half. Layer with smoked salmon slices, thinly sliced red onion, capers, and a sprinkle of black pepper. Serve open-faced with a wedge of lemon on the side."
   },
   {
     "id": 13,
-    " dish_id ": 13,
     "recipe": "Season tuna steaks with salt, pepper, and sesame seeds. Heat oil in a skillet over high heat. Sear tuna for 1-2 minutes per side until golden brown on the outside but still pink in the center. Slice thinly and serve over mixed greens, shredded carrot, cucumber slices, and sliced ra dish_ides. Drizzle with sesame dressing before serving."
   },
   {
     "id": 14,
-    " dish_id ": 14,
     "recipe": "Preheat broiler to high heat. Split lobster tails lengthwise and arrange on a baking sheet. In a small saucepan, melt butter over low heat, then stir in freshly squeezed lemon juice and minced garlic. Brush the lemon butter mixture over the lobster tails. Broil for 8-10 minutes until lobster meat is opaque and cooked through. Garnish with chopped parsley and serve hot."
   },
   {
     "id": 15,
-    " dish_id ": 15,
     "recipe": "Heat olive oil in a skillet over medium heat. Add sliced sausages and cook until browned. Add shrimp and Cajun seasoning, then cook until shrimp is pink and cooked through. Stir in sliced bell peppers and onion, cooking until vegetables are tender. Serve hot over cooked rice or pasta."
   },
   {
     "id": 16,
-    " dish_id ": 16,
     "recipe": "Preheat oven to 400°F (200°C). Place cod fillets on a baking sheet lined with parchment paper. Season with salt, pepper, and olive oil. Roast for 15-20 minutes until fish is opaque and flakes easily with a fork. Meanwhile, make cherry tomato salsa by combining diced tomatoes, minced garlic, chopped basil, olive oil, and balsamic vinegar. Serve cod topped with cherry tomato salsa."
   },
   {
     "id": 17,
-    " dish_id ": 17,
     "recipe": "In a large skillet, heat oil over medium heat. Add minced garlic, grated ginger, and curry paste, cooking until fragrant. Stir in coconut milk and simmer for 5 minutes. Add shrimp and cook until pink and cooked through. Serve hot over cooked rice, garnished with chopped cilantro and a squeeze of lime juice."
   },
   {
     "id": 18,
-    " dish_id ": 18,
     "recipe": "Preheat grill to medium-high heat. Season scallops with salt, pepper, and a drizzle of olive oil. Grill scallops for 2-3 minutes per side until caramelized and cooked through. Meanwhile, prepare mango salad by tossing diced mango, mixed greens, thinly sliced red onion, and crumbled feta cheese with balsamic vinaigrette. Serve grilled scallops on top of mango salad."
   },
   {
     "id": 19,
-    " dish_id ": 19,
     "recipe": "Heat olive oil in a large pot over medium heat. Add minced garlic and cook until fragrant. Add mussels and white wine, then cover and cook until mussels have opened, about 5-7 minutes. Discard any unopened mussels. Stir in chopped parsley and season with salt and pepper. Serve hot with crusty bread for dipping."
   },
   {
     "id": 20,
-    " dish_id ": 20,
     "recipe": "Marinate salmon fillets in teriyaki sauce for 30 minutes. Heat oil in a skillet over medium-high heat. Add salmon fillets and cook for 4-5 minutes per side until caramelized and cooked through. Meanwhile, stir-fry broccoli, carrots, and bell peppers in a separate skillet until tender-crisp. Serve teriyaki glazed salmon with stir-fried vegetables over steamed rice."
   },
   {
     "id": 21,
-    " dish_id ": 21,
     "recipe": "Preheat oven to 325°F (160°C). Season beef chuck roast with salt and pepper. In a Dutch oven, cook diced bacon until crispy. Remove bacon and brown beef in the bacon fat. Remove beef and sauté diced onions, carrots, and garlic until softened. Return beef and bacon to the pot. Add red wine, beef stock, tomato paste, and thyme. Cover and bake in the preheated oven for 3-4 hours until beef is tender. Serve hot with mashed potatoes or crusty bread."
   },
   {
     "id": 22,
-    " dish_id ": 22,
     "recipe": "Season pork shoulder with salt, pepper, and cumin. Place in a slow cooker with orange slices, garlic, and bay leaves. Cook on low for 8 hours or until pork is tender and pulls apart easily. Shred pork with forks and broil in the oven until crispy. Serve hot in tacos, burritos, or on its own with salsa and guacamole."
   },
   {
     "id": 23,
-    " dish_id ": 23,
     "recipe": "Slice chicken breast into strips and marinate in lime juice, olive oil, cumin, salt, and pepper for at least 30 minutes. Heat a skillet over medium-high heat and cook sliced bell peppers and onions until softened and slightly charred. Remove vegetables from skillet and cook marinated chicken until browned and cooked through. Serve hot with warm tortillas, salsa, guacamole, and sour cream."
   },
   {
     "id": 24,
-    " dish_id ": 24,
     "recipe": "Preheat oven to 375°F (190°C). In a skillet, cook diced beef chuck until browned. Add sliced mushrooms, diced onions, and minced garlic, cooking until vegetables are softened. Stir in beef stock and simmer until thickened. Spoon beef mixture into individual ramekins. Top with puff pastry and brush with beaten egg. Bake for 20-25 minutes until pastry is golden brown. Serve hot."
   },
   {
     "id": 25,
-    " dish_id ": 25,
     "recipe": "Preheat oven to 425°F (220°C). Season pork tenderloin with salt and pepper. In a skillet, brown pork on all sides. Transfer to a baking  dish_id. In a bowl, mix Dijon mustard, minced garlic, heavy cream, and white wine. Pour over pork. Roast for 25-30 minutes or until internal temperature reaches 145°F (63°C). Let rest for 5 minutes before slicing. Serve hot with mustard sauce."
   },
   {
     "id": 26,
-    " dish_id ": 26,
     "recipe": "Season chicken thighs with salt and pepper. In a large skillet, heat olive oil over medium-high heat. Brown chicken thighs on both sides, then remove from skillet. In the same skillet, sauté diced onions, bell peppers, and minced garlic until softened. Stir in diced tomatoes, tomato paste, red wine, and Italian seasoning. Return chicken to skillet and simmer for 30-40 minutes until chicken is cooked through. Serve hot over cooked pasta."
   },
   {
     "id": 27,
-    " dish_id ": 27,
     "recipe": "Preheat oven to 375°F (190°C). In a skillet, cook ground beef until browned. Drain excess fat. Stir in tomato sauce, cumin, salt, and pepper. In a separate skillet, lightly fry tortillas until pliable. Spread a spoonful of beef mixture onto each tortilla, then roll up and place seam-side down in a baking  dish_id. Top with shredded cheddar cheese and enchilada sauce. Bake for 20-25 minutes until cheese is melted and bubbly. Serve hot with sour cream and chopped cilantro."
   },
   {
     "id": 28,
-    " dish_id ": 28,
     "recipe": "Preheat oven to 200°F (95°C). Pound pork loin slices to about 1/4 inch thickness. Season with salt and pepper. In three separate shallow  dish_ides, place flour, beaten eggs, and breadcrumbs. Dredge each pork slice in flour, dip in beaten eggs, then coat with breadcrumbs. Heat oil in a skillet over medium-high heat. Fry pork slices until golden brown and cooked through, about 3 minutes per side. Keep warm in the oven while frying remaining slices. Serve hot with lemon wedges."
   },
   {
     "id": 29,
-    " dish_id ": 29,
     "recipe": "Season chicken breasts with salt and pepper. Dredge in flour, shaking off excess. In a skillet, heat oil and butter over medium-high heat. Add chicken breasts and cook until browned on both sides. Remove chicken and set aside. In the same skillet, sauté sliced mushrooms until golden brown. Stir in Marsala wine and chicken broth, scraping up any browned bits. Return chicken to the skillet and simmer for 10-15 minutes until cooked through. Serve hot with mashed potatoes or pasta."
   },
   {
     "id": 30,
-    " dish_id ": 30,
     "recipe": "Slice beef sirloin thinly against the grain. In a bowl, combine Greek yogurt, minced garlic, lemon juice, olive oil, dried oregano, salt, and pepper. Add sliced beef to the marinade and refrigerate for at least 1 hour. Heat a skillet over medium-high heat and cook marinated beef until browned and cooked through. Serve beef in warm pita bread with sliced cucumbers, tomatoes, red onions, and tzatziki sauce."
   },
   {
     "id": 31,
-    " dish_id ": 31,
     "recipe": "Cut pork tenderloin into thin strips. In a bowl, mix peanut sauce, soy sauce, minced garlic, and lime juice. Marinate pork strips in the mixture for at least 1 hour. Thread marinated pork onto skewers and grill until cooked through, about 4-5 minutes per side. Serve hot with additional peanut sauce for dipping."
   },
   {
     "id": 32,
-    " dish_id ": 32,
     "recipe": "Season chicken breasts with salt and pepper. Dredge in flour, shaking off excess. In a skillet, heat olive oil over medium-high heat. Cook chicken until browned on both sides, then remove from skillet. Add lemon slices, capers, and white wine to the skillet. Simmer until sauce is reduced by half. Stir in butter until melted. Return chicken to skillet and simmer for a few more minutes until heated through. Serve hot with pasta or rice."
   },
   {
     "id": 33,
-    " dish_id ": 33,
     "recipe": "Slice beef sirloin thinly against the grain. In a skillet, heat oil over medium-high heat. Cook sliced mushrooms and diced onions until softened. Remove from skillet and set aside. In the same skillet, brown beef slices on both sides. Stir in beef stock, Worcestershire sauce, and Dijon mustard. Simmer until sauce thickens. Return mushrooms and onions to the skillet, then stir in sour cream. Serve hot over cooked egg noodles."
   },
   {
     "id": 34,
-    " dish_id ": 34,
     "recipe": "Preheat smoker to 250°F (120°C). Cut pork belly into cubes. Season with BBQ rub. Place pork belly cubes in the smoker and smoke for 2-3 hours. Transfer smoked pork belly cubes to a foil pan. Toss with BBQ sauce, brown sugar, salt, and black pepper. Cover with foil and return to the smoker for another 2 hours. Remove foil and smoke for an additional hour until caramelized and tender. Serve hot as an appetizer or main  dish_id."
   },
   {
     "id": 35,
-    " dish_id ": 35,
     "recipe": "Slice chicken thighs thinly. In a bowl, mix Greek yogurt, minced garlic, lemon juice, cumin, coriander, salt, and pepper. Add chicken slices to the marinade and refrigerate for at least 1 hour. Heat a skillet over medium-high heat and cook marinated chicken until browned and cooked through. Serve chicken in warm pita bread with shredded lettuce, diced tomatoes, and tahini sauce."
   },
   {
     "id": 36,
-    " dish_id ": 36,
     "recipe": "Slice beef sirloin thinly against the grain. In a bowl, mix soy sauce, sesame oil, minced garlic, grated ginger, brown sugar, and sliced green onions. Add beef slices to the marinade and refrigerate for at least 2 hours. Heat a skillet over high heat and cook marinated beef until browned and caramelized. Serve hot with steamed rice and kimchi."
   },
   {
     "id": 38,
-    " dish_id ": 38,
     "recipe": "Cut chicken thighs into bite-sized pieces. In a bowl, mix yogurt, tomato sauce, minced garlic, grated ginger, garam masala, paprika, turmeric, salt, and pepper. Add chicken pieces to the marinade and refrigerate for at least 1 hour. Thread marinated chicken onto skewers and grill until cooked through. Serve hot with naan bread and basmati rice."
   },
   {
     "id": 39,
-    " dish_id ": 39,
     "recipe": "Season beef tenderloin medallions with salt and pepper. In a skillet, heat oil and butter over medium-high heat. Cook beef medallions until browned on both sides and cooked to desired doneness. Remove from skillet and keep warm. In the same skillet, sauté minced garlic until fragrant. Deglaze with beef stock and simmer until reduced. Pour sauce over beef medallions and serve hot."
   },
   {
     "id": 40,
-    " dish_id ": 40,
     "recipe": "Season pork chops with salt and pepper. In a skillet, heat oil over medium-high heat. Cook pork chops until browned on both sides and cooked through. Remove from skillet and keep warm. In the same skillet, sauté sliced mushrooms and diced onions until softened. Deglaze with white wine and simmer until reduced. Stir in heavy cream and simmer until thickened. Serve mushroom sauce over pork chops."
   },
   {
     "id": 41,
-    " dish_id ": 41,
     "recipe": "Season beef fillet with salt and pepper, then sear in a hot skillet until browned on all sides. Spread mustard over the seared beef. In a separate skillet, cook mushrooms with garlic, thyme, and seasoning until golden brown. Wrap the beef fillet in prosciutto slices. Roll out puff pastry and place the beef fillet on top of it. Spread the mushroom mixture over the beef. Roll up the pastry, sealing the edges. Brush with beaten egg and bake at 400°F (200°C) for 25-30 minutes until pastry is golden brown and beef is cooked to your liking."
   },
   {
     "id": 42,
-    " dish_id ": 42,
     "recipe": "Season beef brisket with salt and pepper, then sear in a hot skillet until browned. Transfer to a slow cooker. Add chopped carrots, potatoes, onions, and beef stock to the slow cooker. Cook on low for 8-10 hours until beef is tender. Serve hot with crusty bread."
   },
   {
     "id": 43,
-    " dish_id ": 43,
     "recipe": "Preheat oven to 375°F (190°C). Rub lamb leg with minced garlic, chopped rosemary, salt, and pepper. Place lamb in a roasting pan and roast for 1.5-2 hours until internal temperature reaches 145°F (63°C) for medium-rare or 160°F (71°C) for medium. Let rest for 10 minutes before slicing. Serve with roasted potatoes and red wine jus."
   },
   {
     "id": 44,
-    " dish_id ": 44,
     "recipe": "Season pork loin with salt, pepper, and ground cinnamon. Sear in a hot skillet until browned on all sides. Transfer to a baking  dish_id. In a saucepan, combine sliced apples, onions, apple cider vinegar, brown sugar, and a pinch of cinnamon. Cook over medium heat until apples are tender. Pour apple compote over the seared pork loin. Bake at 375°F (190°C) for 25-30 minutes until pork is cooked through. Serve hot with mashed potatoes."
   },
   {
     "id": 45,
-    " dish_id ": 45,
     "recipe": "Cook penne pasta according to package instructions until al dente. In a skillet, cook diced chicken breast until golden brown and cooked through. Add minced garlic, heavy cream, grated Parmesan cheese, and chopped parsley to the skillet. Simmer until sauce thickens. Toss cooked pasta with the Alfredo sauce. Serve hot with garlic bread."
   },
   {
     "id": 46,
-    " dish_id ": 46,
     "recipe": "Season duck breast with salt and pepper. In a hot skillet, sear duck breast skin-side down until golden brown and crispy. Transfer duck breast to a baking  dish_id. In a saucepan, combine orange juice, honey, chicken stock, and Grand Marnier. Simmer until sauce thickens slightly. Pour orange sauce over the duck breast. Bake at 375°F (190°C) for 15-20 minutes until duck is cooked to your liking. Serve hot with roasted vegetables."
   },
   {
     "id": 47,
-    " dish_id ": 47,
     "recipe": "Cook spaghetti according to package instructions until al dente. In a skillet, cook minced beef until browned. Add diced onions, carrots, and garlic, cooking until vegetables are soft. Stir in tomato sauce, red wine, and Italian seasoning. Simmer for 20-30 minutes. Serve hot over cooked spaghetti with grated Parmesan cheese."
   },
   {
     "id": 48,
-    " dish_id ": 48,
     "recipe": "Season rib eye steak with chili powder, cumin, salt, and pepper. Grill steak until cooked to your liking, then slice thinly. Warm tortillas on a hot skillet. Fill tortillas with sliced steak, diced avocado, shredded lettuce, diced tomatoes, and grated cheese. Serve hot with salsa and lime wedges."
   },
   {
     "id": 49,
-    " dish_id ": 49,
     "recipe": "Season chicken thighs with salt, pepper, and paprika. Wrap each chicken thigh with bacon slices. In a skillet, sear bacon-wrapped chicken until bacon is crispy and chicken is cooked through. Brush with honey and minced garlic mixture during cooking. Serve hot with roasted vegetables."
   },
   {
     "id": 50,
-    " dish_id ": 50,
     "recipe": "Slice sirloin steak thinly against the grain. Marinate steak slices in soy sauce, minced ginger, minced garlic, and brown sugar for 30 minutes. Heat oil in a wok over high heat. Stir-fry marinated beef with sliced bell peppers, broccoli florets, and diced onions until beef is cooked and vegetables are tender-crisp. Serve hot over steamed rice."
   },
   {
     "id": 51,
-    " dish_id ": 51,
     "recipe": "In a large pot, heat oil over medium heat. Add diced lamb shoulder and brown on all sides. Add diced onions, minced garlic, and curry paste, cooking until onions are soft. Stir in coconut milk, diced potatoes, and chopped tomatoes. Simmer for 1-1.5 hours until lamb is tender. Serve hot over cooked rice, garnished with chopped coriander."
   },
   {
     "id": 52,
-    " dish_id ": 52,
     "recipe": "Season pork chops with salt and pepper. Sear in a hot skillet until golden brown on both sides. Transfer pork chops to a baking  dish_id. In a saucepan, combine sliced apples, diced onions, apple cider vinegar, brown sugar, and a pinch of cinnamon. Cook over medium heat until apples are soft. Serve pork chops hot with apple sauce and mashed potatoes."
   },
   {
     "id": 53,
-    " dish_id ": 53,
     "recipe": "Season chicken breasts with salt and pepper. Dip chicken breasts in beaten eggs, then coat with breadcrumbs mixed with grated Parmesan cheese. In a skillet, fry breaded chicken until golden brown and cooked through. Top each chicken breast with tomato sauce and mozzarella cheese. Bake at 375°F (190°C) for 10-15 minutes until cheese is melted and bubbly. Serve hot with spaghetti."
   },
   {
     "id": 54,
-    " dish_id ": 54,
     "recipe": "Preheat oven to 425°F (220°C). Rub beef short rib with olive oil, salt, and pepper. Roast in the preheated oven for 15 minutes, then reduce heat to 350°F (180°C) and continue roasting for 1-1.5 hours until beef reaches desired doneness. Meanwhile, prepare Yorkshire puddings by whisking together flour, eggs, milk, and salt. Pour batter into greased muffin tins and bake for 20-25 minutes until puffed and golden brown. Serve roast beef with Yorkshire puddings and gravy."
   },
   {
     "id": 55,
-    " dish_id ": 55,
     "recipe": "Preheat oven to 300°F (150°C). Rub duck legs with salt, minced garlic, chopped thyme, and pepper. Place duck legs in a baking  dish_id and cover with duck fat. Cover with foil and bake for 2.5-3 hours until duck is tender. Remove from fat and shred the duck meat. Serve hot with roasted potatoes and green beans."
   },
   {
     "id": 57,
-    " dish_id ": 57,
     "recipe": "Preheat oven to 375°F (190°C). Butterfly pork tenderloin and pound to an even thickness. Spread Dijon mustard over the inside of the pork. Layer with spinach leaves and crumbled feta cheese. Roll up tightly and tie with kitchen twine. Rub the outside with minced garlic, salt, and pepper. Roast in the preheated oven for 25-30 minutes until pork is cooked through. Let rest for 5 minutes before slicing. Serve hot with roasted vegetables."
   },
   {
     "id": 58,
-    " dish_id ": 58,
     "recipe": "In a large pot, heat oil over medium heat. Add diced chicken thighs and brown on all sides. Add diced onions, minced garlic, and curry paste, cooking until onions are soft. Stir in coconut milk, diced potatoes, and chopped tomatoes. Simmer for 20-25 minutes until chicken is cooked through and potatoes are tender. Serve hot over cooked rice, garnished with chopped coriander."
   },
   {
     "id": 59,
-    " dish_id ": 59,
     "recipe": "Slice beef fillet thinly against the grain. Marinate beef slices in soy sauce, minced garlic, and grated ginger for 30 minutes. Heat oil in a wok over high heat. Stir-fry marinated beef with broccoli florets until beef is cooked and broccoli is tender-crisp. Serve hot over steamed rice."
   },
   {
     "id": 60,
-    " dish_id ": 60,
     "recipe": "Preheat oven to 300°F (150°C). Rub pork belly with salt, pepper, and brown sugar. Place pork ribs in a baking  dish_id and cover with BBQ sauce. Cover with foil and bake for 2-2.5 hours until pork is tender. Remove foil and bake for an additional 30 minutes until sauce is caramelized. Serve hot with coleslaw and cornbread."
   }
 ]
