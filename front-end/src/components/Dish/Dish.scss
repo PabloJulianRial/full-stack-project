@@ -1,0 +1,35 @@
+.dish {
+  width: 80%;
+  height: 20vh;
+  border-radius: 7px;
+  background-color: rgb(196, 236, 213);
+  transition: transform 0.3s ease;
+
+  margin: 1rem auto;
+}
+.dish__container {
+  border-radius: 7px;
+  border: 1px solid seagreen;
+  height: 20vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.dish__info {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 100%;
+  font-size: 10px;
+}
+
+img {
+  border-radius: 7px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  width: 44%;
+  height: 100%;
+  object-fit: contain;
+}
