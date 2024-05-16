@@ -303,3 +303,8 @@ INSERT INTO recipes (id, dish_id, recipe) VALUES(54,54, 'Preheat oven to 425°F 
 INSERT INTO recipes (id, dish_id, recipe) VALUES(55,55, 'Preheat oven to 300°F (150°C). Rub duck legs with salt, minced garlic, chopped thyme, and pepper. Place duck legs in a baking dish and cover with duck fat. Cover with foil and bake for 2.5-3 hours until duck is tender. Remove from fat and shred the duck meat. Serve hot with roasted potatoes and green beans.');
 INSERT INTO recipes (id, dish_id, recipe) VALUES(57,57, 'Preheat oven to 375°F (190°C). Butterfly pork tenderloin and pound to an even thickness. Spread Dijon mustard over the inside of the pork. Layer with spinach leaves and crumbled feta cheese. Roll up tightly and tie with kitchen twine. Rub the outside with minced garlic, salt, and pepper. Roast in the preheated oven for 25-30 minutes until pork is cooked through. Let rest for 5 minutes before slicing. Serve hot with roasted vegetables.');
 INSERT INTO recipes (id, dish_id, recipe) VALUES(56,56, 'In a large pot, heat oil over medium heat. Add diced chicken thighs and brown on all sides. Add diced onions, minced garlic, and curry paste, cooking until onions are soft. Stir in coconut milk, diced potatoes, and chopped tomatoes. Simmer for 20-25 minutes until chicken is cooked through and potatoes are tender. Serve hot over cooked rice, garnished with chopped coriander.');
+INSERT INTO dish_ingredients (id, dish_id, ingredient_id) VALUES (1, 1, 75);
+INSERT INTO dish_ingredients(id, dish_id, ingredient_id) VALUES (2, 1, 66);
+INSERT INTO dish_ingredients(id, dish_id, ingredient_id) VALUES (3, 1, 81);
+INSERT INTO dish_ingredients (id, dish_id, ingredient_id) VALUES (4, 1, 4);
+INSERT INTO dish_ingredients (id, dish_id, ingredient_id) VALUES (5, 1, 3);

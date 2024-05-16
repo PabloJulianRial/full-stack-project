@@ -23,6 +23,7 @@ CREATE TABLE dishes (
     ingredient3_id INT,
     ingredient4_id INT,
     ingredient5_id INT,
+    img_url VARCHAR(50),
     FOREIGN KEY (ingredient1_id) REFERENCES ingredients(id),
     FOREIGN KEY (ingredient2_id) REFERENCES ingredients(id),
     FOREIGN KEY (ingredient3_id) REFERENCES ingredients(id),
@@ -35,4 +36,11 @@ CREATE TABLE recipes (
     dish_id INT,
     recipe VARCHAR(1000) NOT NULL,
     FOREIGN KEY (dish_id) REFERENCES dishes(id)
+);
+CREATE TABLE dish_ingredients(
+id INT AUTO_INCREMENT PRIMARY KEY,
+dish_id INT,
+ingredient_id INT,
+FOREIGN KEY (ingredient_id) REFERENCES ingredients(id),
+FOREIGN KEY (dish_id) REFERENCES dishes(id)
 );

@@ -11,17 +11,15 @@ public class Dish {
     @ManyToMany
     @JoinTable(
             name = "dish_ingredients",
-            joinColumns = @JoinColumn(name = "ingredient1_id"),
-            inverseJoinColumns = @JoinColumn(name = "ingredient_id"))
+            joinColumns = @JoinColumn(name = "dish_id", insertable = false, updatable = false),
+            inverseJoinColumns = @JoinColumn(name = "ingredient_id", insertable = false, updatable = false))
 
 
     Set<Ingredients> dishIngredients;
-
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
     private String dish;
-
     @Column(name = "ingredient1_id")
     private int ingredient1Id;
     @Column(name = "ingredient2_id")
@@ -32,11 +30,17 @@ public class Dish {
     private int ingredient4Id;
     @Column(name = "ingredient5_id")
     private int ingredient5Id;
-
-
     @OneToOne
     @JoinColumn(name = "id", insertable = false, updatable = false)
     private Recipe recipe;
+
+    public Set<Ingredients> getDishIngredients() {
+        return dishIngredients;
+    }
+
+    public void setDishIngredients(Set<Ingredients> dishIngredients) {
+        this.dishIngredients = dishIngredients;
+    }
 
     public long getId() {
         return id;
