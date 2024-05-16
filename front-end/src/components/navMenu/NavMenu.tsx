@@ -24,7 +24,6 @@ const NavMenu = ({
 
   return (
     <div className={`nav-menu ${isMenuOpen ? "open" : ""}`}>
-      <p className="nav-menu__head">Search by</p>
       <i className="fa-solid fa-circle-xmark nav-cross" onClick={onClose}></i>
       <div className="nav-menu__item">
         <input

@@ -4,8 +4,13 @@
   border-radius: 7px;
   background-color: rgb(196, 236, 213);
   transition: transform 0.3s ease;
-
   margin: 1rem auto;
+  &__recipe {
+    width: 90%;
+    text-align: center;
+    font-size: 9px;
+    margin: 0 auto;
+  }
 }
 .dish__container {
   border-radius: 7px;

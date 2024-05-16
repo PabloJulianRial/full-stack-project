@@ -1,19 +1,13 @@
 import "./DishesList.scss";
 import Dish from "../Dish/Dish";
+import { Link } from "react-router-dom";
 
 const DishesList = () => {
   return (
     <div className="dishes-list">
-      <Dish />
-      <Dish />
-      <Dish />
-      <Dish />
-      <Dish />
-      <Dish />
-      <Dish />
-      <Dish />
-      <Dish />
-      <Dish />
+      <Link className="dish-link" to={`/beer/`} key="1">
+        <Dish name="name" image_url="url" recipe="recipe" />
+      </Link>
     </div>
   );
 };
