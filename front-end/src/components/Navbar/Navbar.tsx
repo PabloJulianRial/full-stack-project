@@ -9,9 +9,11 @@ type NavbarProps = {
   handleCheckboxChange: (name: string) => void;
   handleCheckboxChangeRemove: (name: string) => void;
   checkedBoxes: string[];
+  ingredients: string[];
 };
 
 function Navbar({
+  ingredients,
   handleCheckboxChangeRemove,
   searchTerm,
   handleInput,
@@ -22,6 +24,7 @@ function Navbar({
       <Header
         handleCheckboxChange={handleCheckboxChange}
         handleCheckboxChangeRemove={handleCheckboxChangeRemove}
+        ingredients={ingredients}
       />
       <SearchBox searchTerm={searchTerm} handleInput={handleInput} />
     </div>

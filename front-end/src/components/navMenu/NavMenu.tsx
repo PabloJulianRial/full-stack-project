@@ -1,6 +1,7 @@
 import "./NavMenu.scss";
 
 type NavMenuProps = {
+  ingredients: string[];
   onClose: () => void;
   isMenuOpen: boolean;
   handleCheckboxChange: (name: string) => void;
@@ -8,6 +9,7 @@ type NavMenuProps = {
 };
 
 const NavMenu = ({
+  ingredients,
   isMenuOpen,
   onClose,
   handleCheckboxChange,
@@ -25,41 +27,19 @@ const NavMenu = ({
   return (
     <div className={`nav-menu ${isMenuOpen ? "open" : ""}`}>
       <i className="fa-solid fa-circle-xmark nav-cross" onClick={onClose}></i>
-      <div className="nav-menu__item">
-        <input
+      <div className="nav-menu__items">
+        {ingredients.map((ingredient) => {
+          return <div className="nav-menu__ingredient">
+            <input
           className="nav-menu__input"
           type="checkbox"
-          id="abv"
-          name="abv"
+          id="ingredient"
+          name="ingredient"
           onChange={handleChange}
         />
-        <label className="nav-menu__label" htmlFor="abv">
-          ABV
-        </label>
-      </div>
-      <div className="nav-menu__item">
-        <input
-          className="nav-menu__input"
-          type="checkbox"
-          id="classic"
-          name="classic"
-          onChange={handleChange}
-        />
-        <label className="nav-menu__label" htmlFor="Classic">
-          Classic range
-        </label>
-      </div>
-      <div className="nav-menu__item">
-        <input
-          className="nav-menu__input"
-          type="checkbox"
-          id="acidity"
-          name="acidity"
-          onChange={handleChange}
-        />
-        <label className="nav-menu__label" htmlFor="Acidity">
-          Acidity
-        </label>
+          </div>;
+        })}
+        
       </div>
     </div>
   );

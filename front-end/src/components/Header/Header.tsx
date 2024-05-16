@@ -5,9 +5,11 @@ import { useState } from "react";
 type HeaderProps = {
   handleCheckboxChange: (name: string) => void;
   handleCheckboxChangeRemove: (name: string) => void;
+  ingredients: string[];
 };
 
 function Header({
+  ingredients,
   handleCheckboxChange,
   handleCheckboxChangeRemove,
 }: HeaderProps) {
@@ -20,6 +22,7 @@ function Header({
   return (
     <div className="header">
       <NavMenu
+        ingredients={ingredients}
         isMenuOpen={isMenuOpen}
         onClose={toggleNav}
         handleCheckboxChange={handleCheckboxChange}

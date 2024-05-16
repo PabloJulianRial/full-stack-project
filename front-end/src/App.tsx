@@ -10,23 +10,22 @@ import DishResponse from "./types/DishResponse";
 const App = () => {
   const [searchTerm, setSearchTerm] = useState<string>("");
   const [checkedBoxes, setCheckedBoxes] = useState<string[]>([]);
-  const [dishes, setDishes] = useState<DishResponse[]>([]);
-
-  const getDishes = async () => {
-    const response = await fetch("http://localhost:8080/dishes");
-    const dishesData = await response.json();
-    setDishes(dishesData);
-  };
-
-  useEffect(() => {
-    getDishes();
-  }, []);
+  const [ingredients, setIngredients] = useState<string[]>([]);
 
   const handleInput = (event: FormEvent<HTMLInputElement>) => {
     const input = event.currentTarget.value.toLowerCase();
     setSearchTerm(input);
   };
-  console.log(dishes);
+
+  const getIngredients = async () => {
+    const response = await fetch("http://localhost:8080/ingredients");
+    const ingredientsData = await response.json();
+    setIngredients(ingredientsData);
+  };
+
+  useEffect(() => {
+    getIngredients();
+  }, [ingredients]);
 
   const handleCheckboxChange = (name: string) => {
     setCheckedBoxes((currentCheckedBoxes) => [...currentCheckedBoxes, name]);
@@ -40,6 +39,7 @@ const App = () => {
     <BrowserRouter basename="/">
       <div className="app">
         <Navbar
+          ingredients={ingredients}
           checkedBoxes={checkedBoxes}
           searchTerm={searchTerm}
           handleInput={handleInput}
