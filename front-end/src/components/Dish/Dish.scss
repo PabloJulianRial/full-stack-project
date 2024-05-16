@@ -1,6 +1,6 @@
 .dish {
   width: 80%;
-  height: 20vh;
+  height: 30vh;
   border-radius: 7px;
   background-color: rgb(196, 236, 213);
   transition: transform 0.3s ease;
@@ -15,7 +15,7 @@
 .dish__container {
   border-radius: 7px;
   border: 1px solid seagreen;
-  height: 20vh;
+  height: 30vh;
   display: flex;
   justify-content: space-between;
   align-items: center;

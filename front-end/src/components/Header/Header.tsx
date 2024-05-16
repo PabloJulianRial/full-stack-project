@@ -29,10 +29,9 @@ function Header({
       <i className="fa-solid fa-bars header__menu " onClick={toggleNav}></i>
 
       <div className="header__head">
-        <h2 className="header__head--title">Recipe finder</h2>
-
-        <i className="fa-solid fa-hat-chef header__head--img"></i>
+        <h4 className="header__head--title">Recipe finder</h4>
       </div>
+      <div className="header__button">add a recipe</div>
     </div>
   );
 }

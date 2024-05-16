@@ -1,5 +1,11 @@
-.nav-bar {
+.navbar {
   display: flex;
   flex-direction: column;
-  border: 1px solid black;
+  position: fixed;
+  width: 100vw;
+  left: 0;
+  top: 0;
+  background-color: rgba(9, 26, 2, 0.6);
+  color: rgb(233, 210, 183);
+  padding: 7px;
 }
