@@ -26,11 +26,11 @@ public class DishesController {
 
     // CREATE
 
-//    @PostMapping("/dishes")
-//    public ResponseEntity<Dish> createDish(@RequestBody Dish dish) {
-//        Dish newDish = dishesService.addDish(dish);
-//        return ResponseEntity.status(HttpStatus.CREATED).body(newDish);
-//    }
+    @PostMapping("/dish")
+    public ResponseEntity<Dish> createDish(@RequestBody Dish dish) {
+        Dish newDish = dishesService.addDish(dish);
+        return ResponseEntity.status(HttpStatus.CREATED).body(newDish);
+    }
 
     //READ
 

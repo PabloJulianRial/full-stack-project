@@ -31,10 +31,11 @@ public class DishesService {
 
 
     //CREATE
-//    public Dish addDish(Dish dish) {
-//
-//
-//    }
+    public Dish addDish(Dish dish) {
+
+
+        return dish;
+    }
 
 
     //READ
@@ -81,45 +82,14 @@ public class DishesService {
                 .getAllByOrderById());
     }
 
-//    public Dish getDishById(long id) {
-//        return dishesRepository.findById(id).orElseThrow(() -> new NotFoundException("Greeting Not Found"));
-//    }
-
     public Dish getRandomDish() {
         return dishesRepository.getRandomDish();
     }
 
 
-//    public List<Option> getRecipes() {
-//        return getFormOptions(recipesRepository.findAll());
-//    }
-
-
-//    public List<Long> getDishIds() {
-//    }
-
-//    public List<Option> getDishesIngredients() {
-//        return getFormOptions(ingredientsRepository.findAll());
-//    }
-//
-//    public List<Option> getDishesRecipes() {
-//        return getFormOptions(recipesRepository.findAll());
-//    }
-
-//    public Dish getRandomGreeting() {
-//        return dishesRepository.getRandomDish();
-//    }
-
-
     public Dish getDishById(long id) {
         return dishesRepository.findById(id).orElseThrow(() -> new NotFoundException("Dish Not Found"));
     }
-
-//    public Dish updateDish(Dish newDish, long id) {
-//    }
-//
-//    public void deleteDishById(long id) {
-//    }
 
 
     private List<Option> getFormOptions(List<? extends OptionContract> options) {
