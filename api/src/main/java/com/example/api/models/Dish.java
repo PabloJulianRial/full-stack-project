@@ -30,9 +30,19 @@ public class Dish {
     private int ingredient4Id;
     @Column(name = "ingredient5_id")
     private int ingredient5Id;
+    @Column(name = "img_url")
+    private String img_url;
     @OneToOne
     @JoinColumn(name = "id", insertable = false, updatable = false)
     private Recipe recipe;
+
+    public String getImg_url() {
+        return img_url;
+    }
+
+    public void setImg_url(String img_url) {
+        this.img_url = img_url;
+    }
 
     public Set<Ingredients> getDishIngredients() {
         return dishIngredients;
@@ -107,19 +117,19 @@ public class Dish {
     }
 
 
-    @Override
-    public String toString() {
-        return "Dishes{" +
-                "id=" + id +
-                ", dish='" + dish + '\'' +
-                ", ingredient1Id='" + ingredient1Id + '\'' +
-                ", ingredient2Id=" + ingredient2Id +
-                ", ingredient3Id=" + ingredient3Id +
-                ", ingredient4Id=" + ingredient4Id +
-                ", ingredient5Id=" + ingredient5Id +
-                ", recipe=" + recipe +
-                '}';
-    }
+//    @Override
+//    public String toString() {
+//        return "Dishes{" +
+//                "id=" + id +
+//                ", dish='" + dish + '\'' +
+//                ", ingredient1Id='" + ingredient1Id + '\'' +
+//                ", ingredient2Id=" + ingredient2Id +
+//                ", ingredient3Id=" + ingredient3Id +
+//                ", ingredient4Id=" + ingredient4Id +
+//                ", ingredient5Id=" + ingredient5Id +
+//                ", recipe=" + recipe +
+//                '}';
+//    }
 }
 
 
