@@ -1,11 +1,10 @@
+import Ingredient from "./Ingredient";
+
 type DishResponse = {
   id: number;
   dish: string;
-  ingredient1: string;
-  ingredient2: string;
-  ingredient3: string;
-  ingredient4: string;
-  ingredient5: string;
+  img_url: string;
+  dishIngredients: Ingredient[];
   recipe: {
     id: number;
     recipe: string;

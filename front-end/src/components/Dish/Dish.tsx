@@ -1,40 +1,23 @@
+import Ingredient from "../../types/Ingredient";
 import "./Dish.scss";
 
 type DishProps = {
   name: string;
-  ingredient1: string;
-  ingredient2: string;
-  ingredient3: string;
-  ingredient4: string;
-  ingredient5: string;
   recipe: string;
+  img_url: string;
 };
 
-const Dish = ({
-  name,
-  ingredient1,
-  ingredient2,
-  ingredient3,
-  ingredient4,
-  ingredient5,
-  recipe,
-}: DishProps) => {
-  console.log(name);
-
+const Dish = ({ name, recipe, img_url }: DishProps) => {
   return (
     <div className="dish">
       <div className="dish__container">
         <div className="dish__info">
-          <h3 className="dish__name">{name} </h3>
+          <h2 className="dish__name">{name} </h2>
           <div className="dish__recipe">
-            <p>{ingredient1}</p>
-            <p>{ingredient2}</p>
-            <p>{ingredient3}</p>
-            <p>{ingredient4}</p>
-            <param>{ingredient5}</param>
+            <p>{recipe}</p>
           </div>
         </div>
-        <img src="src\assets\duck alorange.jpg"></img>
+        <img src={img_url}></img>
       </div>
     </div>
   );

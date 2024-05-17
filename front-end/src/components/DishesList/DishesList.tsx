@@ -2,33 +2,42 @@ import "./DishesList.scss";
 import Dish from "../Dish/Dish";
 import DishResponse from "../../types/DishResponse";
 import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 
-const DishesList = () => {
-  const [dishes, setDishes] = useState<DishResponse[]>([]);
+type DishesListProps = {
+  dishes: DishResponse[];
+  searchTerm: string;
+};
 
-  const getDishes = async () => {
-    const response = await fetch("http://localhost:8080/dishes");
-    const dishesData = await response.json();
-    setDishes(dishesData);
-  };
+const DishesList = ({ dishes, searchTerm }: DishesListProps) => {
+  // const [dishes, setDishes] = useState<DishResponse[]>([]);
 
-  useEffect(() => {
-    getDishes();
-  }, [dishes]);
+  // const getDishes = async () => {
+  //   const response = await fetch("http://localhost:8080/dishes");
+  //   const dishesData = await response.json();
+  //   setDishes(dishesData);
+  // };
+
+  // useEff
+  // }, []);
+  console.log(dishes);
+
+  const filteredDishes = dishes.filter((dish) => {
+    return dish.dish.toLowerCase().includes(searchTerm.toLowerCase());
+  });
+
   return (
     <div className="dishes-list">
-      {dishes.map((dish) => {
+      {filteredDishes.map((dish) => {
         return (
-          <Dish
-            key={dish.id}
-            name={dish.dish}
-            ingredient1={dish.ingredient1}
-            ingredient2={dish.ingredient2}
-            ingredient3={dish.ingredient3}
-            ingredient4={dish.ingredient4}
-            ingredient5={dish.ingredient5}
-            recipe={dish.recipe.recipe}
-          />
+          <Link className="dish-link" to={`/dish/${dish.id}`} key={dish.id}>
+            <Dish
+              key={dish.id}
+              name={dish.dish}
+              img_url={dish.img_url}
+              recipe={dish.recipe.recipe}
+            />
+          </Link>
         );
       })}
     </div>

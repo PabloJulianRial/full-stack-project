@@ -23,9 +23,22 @@ const App = () => {
     setIngredients(ingredientsData);
   };
 
+  const [dishes, setDishes] = useState<DishResponse[]>([]);
+
+  const getDishes = async () => {
+    const response = await fetch("http://localhost:8080/dishes");
+    const dishesData = await response.json();
+    setDishes(dishesData);
+  };
+
+  useEffect(() => {
+    getDishes();
+  }, []);
+  console.log(dishes[0]);
+
   useEffect(() => {
     getIngredients();
-  }, [ingredients]);
+  }, []);
 
   const handleCheckboxChange = (name: string) => {
     setCheckedBoxes((currentCheckedBoxes) => [...currentCheckedBoxes, name]);
@@ -47,10 +60,16 @@ const App = () => {
           handleCheckboxChangeRemove={handleCheckboxChangeRemove}
         />
         <Routes>
-          <Route path="/" element={<DishesList />}></Route>
-          <Route path="/dish/:dishId" element={<DishOverview />} />
+          <Route
+            path="/"
+            element={<DishesList searchTerm={searchTerm} dishes={dishes} />}
+          ></Route>
+          <Route
+            path="/dish/:dishId"
+            element={<DishOverview dishes={dishes} />}
+          />
         </Routes>
-        <DishesList />
+        {/* <DishesList dishes={dishes} /> */}
       </div>
     </BrowserRouter>
   );
